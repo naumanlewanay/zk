@@ -1,0 +1,1 @@
+*/3 * * * * /usr/bin/python /usr/local/zk/example/get_users.py >> /usr/local/zk/cronjob.log 2>&1
